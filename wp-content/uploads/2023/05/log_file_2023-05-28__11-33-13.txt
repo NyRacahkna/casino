@@ -1,0 +1,58 @@
+
+---Downloaded files---
+The import files for: tenniset were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://192.168.0.150/user2/wordpress/casinobet
+Data file = D:\wamp\www\user2\wordpress\casinobet/wp-content/themes/casinobet/custom/one-click/tenniset_wordpress.xml
+Widget file = D:\wamp\www\user2\wordpress\casinobet/wp-content/themes/casinobet/custom/one-click/tenniset_widgets_settings.wie
+Customizer file = D:\wamp\www\user2\wordpress\casinobet/wp-content/themes/casinobet/custom/one-click/tenniset_customizer_export.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar 1 : 
+
+Block - No Title - Widget already exists
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+
+Sidebar 2 : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+Filter Products by Price - Filter by price - Imported
+Filter Products by Attribute - Filter by - Imported
+Filter Products by Attribute - Filter by - Imported
+
+Footer 1 : 
+
+Block - No Title - Imported
+
+Footer 2 : 
+
+Block - No Title - Imported
+
+Footer 3 : 
+
+Block - No Title - Imported
+
+Footer 4 : 
+
+Newsletter Minimal - Subscribe - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+Slider import successfully

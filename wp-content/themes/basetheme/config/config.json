@@ -1,0 +1,11 @@
+{
+  "theme": {
+    "slug": "basetheme",
+    "name": "basetheme",
+    "theme_uri": "https://basetheme.net/wordpress/",
+    "author": "BaseTheme.net Contributors",
+    "author_uri": "https://basetheme.net/",
+    "description": "This is starter WordPress theme called BaseTheme. Created for theme developers to start building beautiful WordPress themes using BaseTheme.",
+    "PHPNamespace": "TheBase"
+  }
+}

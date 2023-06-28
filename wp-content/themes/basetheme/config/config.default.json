@@ -1,0 +1,50 @@
+{
+  "theme": {
+    "slug": "basetheme",
+    "name": "basetheme",
+    "author": "BaseTheme.net Contributors",
+    "PHPNamespace": "TheBase"
+  },
+  "dev": {
+    "browserSync": {
+      "live": true,
+      "proxyURL": "http://localhost/basetheme",
+      "bypassPort": "8181",
+      "https": false
+    },
+    "styles": {
+      "stage": 3,
+      "autoprefixer": {
+        "grid": false
+      },
+      "features": {
+        "custom-media-queries": true,
+        "custom-properties": true,
+        "nesting-rules": true
+      }
+    },
+    "debug": {
+      "styles": false,
+      "scripts": false,
+      "phpcs": true
+    }
+  },
+  "export": {
+    "compress": true,
+    "generatePotFile": true,
+    "filesToCopy": [
+      "LICENSE",
+      "readme.txt",
+      "changelog.txt",
+      "screenshot.png",
+      "wpml-config.xml",
+      "assets/**/*.*",
+      "inc/**/*.css",
+      "inc/**/*.scss",
+      "inc/**/*.js",
+      "languages/**/*.mo",
+      "languages/readme.txt",
+      "phpcs.xml.dist"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+/*--------------------------------------------------------------
+# Icons
+--------------------------------------------------------------*/
+.thebase-svg-iconset {
+	display: inline-flex;
+	align-self: center;
+}
+.thebase-svg-iconset svg {
+	height:1em;
+	width:1em;
+}
+.thebase-svg-iconset.svg-baseline svg {
+	top: .125em;
+	position: relative;
+}

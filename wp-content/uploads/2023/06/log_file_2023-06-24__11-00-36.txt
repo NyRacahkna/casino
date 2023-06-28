@@ -1,0 +1,58 @@
+
+---Downloaded files---
+The import files for: casinobet were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = http://localhost/casino
+Data file = C:\wamp64\www\casino/wp-content/themes/casinobet/custom/one-click/casinobet_wordpress.xml
+Widget file = C:\wamp64\www\casino/wp-content/themes/casinobet/custom/one-click/casinobet_widgets_settings.wie
+Customizer file = C:\wamp64\www\casino/wp-content/themes/casinobet/custom/one-click/casinobet_customizer_export.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar 1 : 
+
+Block - No Title - Widget already exists
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+
+Sidebar 2 : 
+
+Block - No Title - Imported
+Filter Products by Price - Filter by price - Imported
+Filter Products by Attribute - Size - Imported
+Filter Products by Attribute - Color - Imported
+
+Footer 1 : 
+
+Block - No Title - Imported
+
+Footer 2 : 
+
+Block - No Title - Imported
+
+Footer 3 : 
+
+Block - No Title - Imported
+
+Footer 4 : 
+
+Block - No Title - Imported
+
+Footer 5 : 
+
+Block - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+Slider import successfully

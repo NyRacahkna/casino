@@ -1,0 +1,28 @@
+24-06-2023 10:58:11 - INFO  - 7.8.7 - 17.9 MB/2 GB - onesuperuser > Start upgrade from 0.0.0
+24-06-2023 10:58:11 - INFO  - 7.8.7 - 17.9 MB/2 GB - onesuperuser > Array
+(
+    [`wposm_newsletter_emails`] => Created table `wposm_newsletter_emails`
+)
+
+24-06-2023 10:58:11 - INFO  - 7.8.7 - 17.9 MB/2 GB - onesuperuser > Array
+(
+    [`wposm_newsletter_sent`] => Created table `wposm_newsletter_sent`
+)
+
+24-06-2023 10:58:11 - INFO  - 7.8.7 - 17.9 MB/2 GB - onesuperuser > Array
+(
+    [`wposm_newsletter`] => Created table `wposm_newsletter`
+)
+
+24-06-2023 10:58:11 - INFO  - 7.8.7 - 17.9 MB/2 GB - onesuperuser > Array
+(
+    [`wposm_newsletter_user_logs`] => Created table `wposm_newsletter_user_logs`
+)
+
+24-06-2023 10:58:11 - INFO  - 7.8.7 - 17.9 MB/2 GB - onesuperuser > Array
+(
+    [`wposm_newsletter_stats`] => Created table `wposm_newsletter_stats`
+)
+
+24-06-2023 10:58:11 - INFO  - 7.8.7 - 17.9 MB/2 GB - onesuperuser > Backing up options of 0.0.0
+24-06-2023 10:58:11 - INFO  - 7.8.7 - 17.9 MB/2 GB - onesuperuser > End
