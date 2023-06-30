@@ -48,9 +48,6 @@
 						<div class="hero-area-item"><img class="shape" src="<?php bloginfo('template_url'); ?>/front-page-asset/images/banner02.jpg" alt=""></div>
 						<div class="hero-area-item"><img class="shape" src="<?php bloginfo('template_url'); ?>/front-page-asset/images/banner03.jpg" alt=""></div> -->
 						</div>
-					
-				
-			
 		</div>
 	</div>
 	<!-- Hero Area End -->

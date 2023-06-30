@@ -30,6 +30,7 @@ do_action( 'thebase_after_content' );
 	 */
 	// do_action( 'thebase_footer' );
 ?>
+
 <!-- Footer Area Start -->
 <footer class="footer" id="footer">
 		

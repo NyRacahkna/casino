@@ -115,11 +115,9 @@ select:focus {
 .alignleft {
   float: left;
 }
-
 .alignright {
   float: right;
 }
-
 .aligncenter {
   clear: both;
   display: block;

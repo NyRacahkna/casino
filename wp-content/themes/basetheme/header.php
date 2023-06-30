@@ -103,7 +103,6 @@ body, p , a{
 	font-family:"Battambang",  "Roboto", "Open Sans", sans-serif !important;
 }
 </style>
-
 <body <?php body_class(); ?>>
 <div class="float-social">
 	<ul class="top-social-links">
