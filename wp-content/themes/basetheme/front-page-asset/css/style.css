@@ -51,7 +51,7 @@ h4,
 h5,
 h6 {
   color: #FFF;
-  font-family: "Josefin Sans", sans-serif;
+  font-family: "Battambang", "Josefin Sans", sans-serif !important;
 }
 
 p {
@@ -125,7 +125,19 @@ select:focus {
   display: block;
   margin: 0 auto 1.75em;
 }
-
+.float-social{
+  position: fixed;
+  z-index: 5;
+  right:5px;
+  top:50%;
+  transform: translateY(-50%);
+}
+.float-social li {
+  padding: 10px 0;
+}
+.float-social li a{
+  font-size: 40px;
+}
 @keyframes opacityAnimation {
   0% {
     opacity: 0.4;
@@ -267,8 +279,8 @@ select:focus {
   margin-bottom: 13px;
 }
 .section-heading .title {
-  font-size: 60px;
-  line-height: 70px;
+  font-size: 40px;
+  line-height: 50px;
   font-weight: 700;
   text-transform: uppercase;
   color: #fff;
@@ -1157,12 +1169,12 @@ select:focus {
 }
 .footer .social-links ul li a {
   display: inline-block;
-  width: 35px;
-  height: 35px;
-  line-height: 35px;
+  width: 50px;
+  height: 50px;
+  line-height: 50px;
   border-radius: 50%;
   border: 1px solid rgba(255, 255, 255, 0.3);
-  font-size: 14px;
+  font-size: 25px;
   transition: all 0.3s ease-in;
   margin: 0px 5px;
 }
@@ -1977,7 +1989,6 @@ select:focus {
 /* Latest arcive Area End */
 /* join us area Start */
 .join_us {
-  padding: 84px 0px 84px;
   background-color: #302ca9;
   background-image: url(../images/joinus-bg.jpg);
   background-size: cover;
@@ -1987,13 +1998,14 @@ select:focus {
   overflow: hidden;
 }
 .join_us .l-image {
-  position: absolute;
+  width:100%;
   bottom: 0px;
-  left: 100px;
+  left: 0;
   max-width: 500px;
 }
 .join_us .section-heading {
   margin-bottom: 0px;
+  padding:40px 0;
 }
 .join_us .section-heading .mybtn1 {
   margin-top: 30px;
@@ -2040,7 +2052,7 @@ select:focus {
   background-color: #141461;
   opacity: 0.3;
   position: absolute;
-  height: 100%;
+  height: 50%;
   width: 100%;
   background-size: 100% 100%;
   background-repeat: no-repeat;
@@ -2075,7 +2087,7 @@ select:focus {
   padding:0 15px;
 }
 #payment-method-section ul li img{
-  width: 90px;
+  width: 70px;
 }
 /*payment method*/
 /* join us area end */
@@ -3717,6 +3729,7 @@ select:focus {
 }
 .question-area .section-heading .title {
   margin-bottom: 30px;
+  line-height: 14px;
 }
 .question-area .section-heading .mybtn1 {
   margin-top: 22px;

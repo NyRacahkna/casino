@@ -105,6 +105,26 @@ body, p , a{
 </style>
 
 <body <?php body_class(); ?>>
+<div class="float-social">
+	<ul class="top-social-links">
+		<li>
+			<a href="https://www.facebook.com/supermasteroneofficial?mibextid=LQQJ4d">
+				<i class="fab fa-facebook-f"></i>
+			</a>
+		</li>
+		<li>
+			<a href="https://t.me/superserviceofficial">
+				<i class="fab fa-telegram"></i>
+			</a>
+		</li>
+		<li>
+			<a href="">
+				<i class="fab fa-line"></i>
+			</a>
+		</li>
+	</ul>
+</div>
+
 <?php wp_body_open(); ?>
 <?php
 /**
@@ -129,23 +149,7 @@ do_action( 'thebase_before_wrapper' );
 								</p>
 							</li>
 						</ul>
-						<ul class="top-social-links">
-							<li>
-								<a href="https://www.facebook.com/supermasteroneofficial?mibextid=LQQJ4d">
-									<i class="fab fa-facebook-f"></i>
-								</a>
-							</li>
-							<li>
-								<a href="https://t.me/superserviceofficial">
-									<i class="fab fa-telegram"></i>
-								</a>
-							</li>
-							<li>
-								<a href="">
-									<i class="fab fa-line"></i>
-								</a>
-							</li>
-						</ul>
+						
 					</div>
 					<div class="right-content">
 						<ul class="right-list">

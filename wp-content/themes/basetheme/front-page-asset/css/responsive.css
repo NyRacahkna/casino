@@ -143,6 +143,9 @@
 
 @media (max-width: 991px) {
   /*start custom*/
+  h2{
+    font-size: 17px !important;
+  }
   .join_us{
     padding:50px 0 50px
   }
@@ -275,7 +278,7 @@
   .bonuse-section .header-area h1,
   .how-get-bonuse-section .section-heading .title
   {
-    font-size: 40px;
+    font-size: 30px;
     line-height: 50px;
   }
 
@@ -339,9 +342,11 @@
     padding: 8px 15px;
   }
 
-
+  .counter-box .image img{
+    display: none;
+  }
   .counter-box .content h4 {
-    font-size: 45px;
+    font-size: 25px;
     line-height: 55px;
   }
 
@@ -497,6 +502,10 @@
 }
 
 @media (max-width: 767px) {
+  h2{
+    font-size: 30px !important;
+    margin-bottom: 10px !important;
+  }
   .wallet-box .wallet-tab-content .trns-box .trns-table-filter .single-filter{
     margin-bottom: 15px;
   }

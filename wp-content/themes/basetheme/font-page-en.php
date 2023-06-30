@@ -1,4 +1,4 @@
-<?php /* Template Name: Front Page */ ?>
+<?php /* Template Name: Front Page English*/ ?>
 <?php get_header(); ?>
 <body>
 	<!-- preloader area start -->
@@ -59,7 +59,7 @@
 	<section class="counter-section">
 		<div class="container">
 			<div class="row">
-				<div class="col-4">
+				<div class="col-lg-4 col-md-6">
 					<div class="counter-box">
 						<div class="myborder"></div>
 						<div class="image">
@@ -71,7 +71,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-4">
+				<div class="col-lg-4 col-md-6">
 					<div class="counter-box">
 						<div class="myborder"></div>
 						<div class="image">
@@ -83,7 +83,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-4">
+				<div class="col-lg-4 col-md-6">
 					<div class="counter-box">
 						<div class="image">
 							<img src="<?php bloginfo('template_url'); ?>/front-page-asset/images/3.png" alt="">
@@ -147,7 +147,7 @@
                         </div>
                         <div class="col-lg-3 col-md-3 col-sm-4 d-flex align-items-center justify-content-center justify-content-sm-end">
                             <div class="right-area">
-								<a href="<?php echo get_site_url(); ?>/feature-games" class="mybtn1">បង្ហាញទាំងអស់</a>
+								<a href="" class="mybtn1">បង្ហាញទាំងអស់</a>
                             </div>
                         </div>
                     </div>

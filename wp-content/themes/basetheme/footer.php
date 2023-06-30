@@ -36,7 +36,7 @@ do_action( 'thebase_after_content' );
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-12">
-					<div id="banner-section">
+					<!-- <div id="banner-section">
 						<div class="bottom-item">
 							<div class="row">
 								<div class="col-lg-6 col-md-6">
@@ -61,7 +61,7 @@ do_action( 'thebase_after_content' );
 										</div>
 									</div>
 								</div>
-								<!-- <div class="col-lg-4 col-md-6">
+								<div class="col-lg-4 col-md-6">
 									<div class="single-item d-flex">
 										<div class="left-area align-items-center">
 											<img src="<?php bloginfo('template_url'); ?>/front-page-asset/images/banner-bottom-3.png" alt="image">
@@ -71,10 +71,10 @@ do_action( 'thebase_after_content' );
 											<p>Your Wombucks or prize money from challenges.</p>
 										</div>
 									</div>
-								</div> -->
+								</div> 
 							</div>
 						</div>
-					</div>
+					</div> -->
 					<div class="container">
 						<div class="row justify-content-between">
 							<div class="col-lg-3 col-md-3 col-sm-3 footer-logo">
@@ -84,12 +84,12 @@ do_action( 'thebase_after_content' );
 								<ul>
 									<li>
 										<a href="">
-											About
+											អំពីយើង
 										</a>
 									</li>
 									<li>
 										<a href="">
-											Contact
+											ទំនាក់ទំនង
 										</a>
 									</li>
 								</ul>
@@ -123,7 +123,7 @@ do_action( 'thebase_after_content' );
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12 copy-text">
-							<p>Copyright © 2023s.All Rights One Super Master</p>
+							<p>រក្សាសិទ្ធិដោយ © 2023 One Super Master</p>
 					</div>
 				</div>
 			</div>
@@ -233,8 +233,8 @@ do_action( 'thebase_after_content' );
 						{
 						breakpoint: 991,
 						settings: {
-							slidesToShow: 3,
-							slidesToScroll: 3,
+							slidesToShow: 2,
+							slidesToScroll: 2,
 							infinite: true,
 							dots: true
 						}
@@ -242,8 +242,8 @@ do_action( 'thebase_after_content' );
 						{
 						breakpoint: 600,
 						settings: {
-							slidesToShow: 2,
-							slidesToScroll: 2
+							slidesToShow: 1,
+							slidesToScroll: 1
 						}
 						}]
 						});
